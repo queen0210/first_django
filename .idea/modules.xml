@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ajax_json/.idea/ajax_json.iml" filepath="$PROJECT_DIR$/../ajax_json/.idea/ajax_json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" filepath="$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_ajax/.idea/django_ajax.iml" filepath="$PROJECT_DIR$/../django_ajax/.idea/django_ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_model/.idea/django_model.iml" filepath="$PROJECT_DIR$/../django_model/.idea/django_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_project/.idea/django_project.iml" filepath="$PROJECT_DIR$/../django_project/.idea/django_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_view/.idea/django_view.iml" filepath="$PROJECT_DIR$/../django_view/.idea/django_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ems/.idea/ems.iml" filepath="$PROJECT_DIR$/../ems/.idea/ems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ems2/.idea/ems2.iml" filepath="$PROJECT_DIR$/../ems2/.idea/ems2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ems3/.idea/ems3.iml" filepath="$PROJECT_DIR$/../ems3/.idea/ems3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/first_django.iml" filepath="$PROJECT_DIR$/.idea/first_django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flask_first/.idea/flask_first.iml" filepath="$PROJECT_DIR$/../flask_first/.idea/flask_first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js_jquery/.idea/my_js.iml" filepath="$PROJECT_DIR$/../js_jquery/.idea/my_js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_redis/.idea/python_redis.iml" filepath="$PROJECT_DIR$/../python_redis/.idea/python_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../图书管理系统/.idea/图书管理系统.iml" filepath="$PROJECT_DIR$/../图书管理系统/.idea/图书管理系统.iml" />
+    </modules>
+  </component>
+</project>
