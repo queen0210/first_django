@@ -14,6 +14,7 @@ def first_view2(request):
     return render(request,'html129.html')
 def first_view3(request):
     print('this is templates view2')
+    print('123')
     temp = loader.get_template('html129.html')
     content = temp.render(request = request)
     return HttpResponse(content)
