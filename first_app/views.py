@@ -19,5 +19,6 @@ def first_view3(request):
     return HttpResponse(content)
 def first_view4(request):
     print('this is templates view 4')
+    print('hahaha')
     return render(request,'html129.html',context={"name":"maxintang","age":20})
 
